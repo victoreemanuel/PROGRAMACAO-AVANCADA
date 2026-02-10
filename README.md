@@ -1,5 +1,5 @@
 # PROGRAMACAO-AVANCADA
-ATIVIDDE 01 - 09-02
+ATIVIDADE 01 - 09-02
 
 Excalidraw contendo diagramação
 
